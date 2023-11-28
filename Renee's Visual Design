@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="C:\Users\stard\OneDrive\Documents\Graph 240\mystyle.css">
+        <div>
+        <style>
+            .button-success,
+            .button-error,
+            .button-warning,
+            .button-secondary {
+                color: white;
+                border-radius: 10% 10px;
+                padding: 20px 30px
+                text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+                height: 30px;
+                position: relative;}
+                .vertical-center {
+                 margin: 0;
+                 position: absolute;
+                 top: 50%;
+                -ms-transform: translateY(-50%);
+                 transform: translateY(-50%);
+            }    
+            .button-success {
+                background: rgb(184, 28, 184);
+                /* this is a pink */
+            }
+    
+            .button-error {
+                background: rgb(207, 110, 168);
+                /* this is a maroon */
+            }
+    
+            .button-warning {
+                background: rgb(207, 110, 168);
+                /* this is an orange */
+            }
+    
+            .button-secondary {
+                background: rgb(207, 110, 168);
+                /* this is a light blue */
+            }       
+         </style>
+        <button class="button-success pure-button">Home</button>
+        <button class="button-error pure-button">About Us</button>
+        <button class="button-warning pure-button">Services</button>
+        <button class="button-secondary pure-button">Portfolio</button>
+        <button class="button-secondary pure-button">Contact Us</button>
+        <button class="button-secondary pure-button">Blog</button>
+    </div></head>
+<body>
+
+<h1>Renee's Visual Designs</h1>
+<p>I am a Graphic Designer and live in south Everett/Mill Creek area in Washington State. 
+    My area of specialty area is Visual and Graphic Design. 
+    My medium ranges from painting, sketching, photography, and graphic design. 
+    My work can be described as modern and whimsical. 
+    The market that I would like to reach are women run and minority run businesses,
+    I feel this audience is not as represented as other businesses</p>
+
+
+</body>
+</html>
